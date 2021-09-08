@@ -66,6 +66,6 @@
  
 
 ### [تماس با من]
-- کوئرا: <a href="https://quera.ir/profile/fatememosaee">My Profile</a>
+- کوئرا: <a href="">My Profile</a>
 
    - رزومه ی انگلیسی: <a href="https://amirhoseinazizi.github.io/Resume/"> Resume </a>
